@@ -69,7 +69,7 @@ def parser(url,reg):
 		df = df.assign(Region=reg)
 		df['Tender Details'] = ten_list
 		#df = df.iloc[: , 1:]
-		data = data.append(df, ignore_index=True)
+		data =pd.concat([data,df])
 		#print(data.tail(3))
 	data = data.drop('Sr. No.', axis = 1)
 	data = data[["Region","e-Published Date", "Closing Date", "Opening Date","Title and Ref.No./Tender ID","Organisation Chain","Tender Details"]]
