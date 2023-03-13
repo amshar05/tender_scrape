@@ -137,7 +137,7 @@ print(data.head())
 End = datetime.datetime.now()
 print("End Time:\n")
 print(End.strftime("%H:%M:%S"))
-"""
+
 
 data_2= pd.read_excel("output.xlsx")
 data_2 = data_2.drop(labels='Unnamed: 0',axis=1)
@@ -153,7 +153,7 @@ End = datetime.datetime.now()
 print("End Time:\n")
 print(End.strftime("%H:%M:%S"))
 
-"""
+
 
 
 
