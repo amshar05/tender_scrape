@@ -22,7 +22,7 @@ column_names_2 = ["Sr. No.","e-Published Date", "Closing Date", "Opening Date","
 
 data = pd.DataFrame(columns = column_names_2)
 restart="/eprocure/app?service=restart"
-df_links = pd.read_excel("/Users/amit/Documents/bid_bot/data/links.xlsx")
+df_links = pd.read_excel("data/links.xlsx")
 df_links = df_links.drop(index=14)
 
 
@@ -130,7 +130,7 @@ print('\nPreparing tender type\n')
 data['Tender Type'] = temp_list
 print('\ndata completed\n')
 
-data.to_excel("/Users/amit/Documents/bid_bot/output.xlsx")
+data.to_excel("output.xlsx")
 
 print("data written to file")
 print(data.head())
@@ -139,7 +139,7 @@ print("End Time:\n")
 print(End.strftime("%H:%M:%S"))
 """
 
-data_2= pd.read_excel("/Users/amit/Documents/bid_bot/output.xlsx")
+data_2= pd.read_excel("output.xlsx")
 data_2 = data_2.drop(labels='Unnamed: 0',axis=1)
 data_2 =data_2[["Region","e-Published Date", "Closing Date", "Opening Date","Title and Ref.No./Tender ID","Organisation Chain","Tender Type" ,"Tender Details"]]
 data_2 = data_2.loc[data_2['Tender Type'] == 'Consultancy']
