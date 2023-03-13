@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bidbot-361909",
+  "private_key_id": "5bcf5970b733e4c6500d8f6bccd84b3c8381063c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCaxZX0PRTXhBwD\ns7NWgh0gptSq9XLeDKI/TRRZENP8GRximiJqs7J1Vn4Q1LUfR+Dj56WvTDhDc8Om\n45nOmzLhDnWQAnVI7xaicYOafAAPpmqmJMwu1BedBa1m7Ve8YClmN7ly1cKwvwc2\nYpbC7ZNQ8xpSFfTD11BU3nutzyNOM/zT1EXslgoMgPo1NsVT3DU/rETLXDHnzUpm\naTv4nNfhM+4qtlVJnqxnKSa/i7j+QANRrdTF7RkZU8DqG1IrMSGn4lyelrm6pw4/\nq8tg84aMJEkvdzfaadatmN2bsIdSMIiVSsr/CWWSe6aggPfmH2L9IZJWTrfowv86\nqGnQvb6lAgMBAAECggEAGR9lfeXEUk9hdMBgpfQs4jXyY2XAJYcLdxb97I8suckh\nsGewmn1cxGsrv3OnitJSEOxzGodWwqwx4A8l0kGi+qEsOBoOC66zj965LARgximP\nOjTS5+8JfjWDtidkjHFXhv4YnilQlvwLIarTKgUCWqt7ZEOoHXn/0ibjEI2E/5Z0\nB86WgnPOxpQfE7pMJV6rNIcnacDF/CuWM2exHRIHBwimq2/KDaHc3/W0Gx42upNI\nIyg7fzrkD1TKJWsrP9Ds6kEIeE4vAMpX2e2W5Pdc7ZEIjDg7FM0+5zaWL8f36suf\nbkzb/G9u7D3GgSpHBErH5oNlTvbOVOR1ty6ZQOEGqQKBgQDRylZEptqYzCqlW6RS\nUK3aj9b0RkL+VC1ZhCUqgUmW6kNle5iD8QwtJ1FP31GTUs/hZ/9ow4cOOoPmvc1x\nDCl74CZ4WMfH4r5nUibxCFP3q3byKvyQzQ0op7ppvQxR1GK+L8wrq0wrWmfIdcPd\nMnRqa+gC6gPy4NXQEufVXeT/bwKBgQC83NyF/PP2/lSPFwxdK3IbRY4Vosot7D2/\nhwPmOkUNohhkZHTxs+x8m0ZkEU+2eM5Bnpc1M/ZmQzzIEkhgZk4jtNIDhkk1uv+w\nya0Rus0K+xnebF8jrq8JQ98wYiza/WflNNQwgI/CuMI49uJyw8vKYU4RUMJjVezV\nKXo0THsZKwKBgQCU+QOtmHaeDk0yQxM6yMPL8lyH9eTYyVmyuV3TAyAIpK3bQJsb\nBm7JGaRp/YDmBuZLgBgkgsRC3FaR4bIjVqmWp6NpzlF/pYnjwLiabHmD5CSA7vmO\nsa1oc0Kyl2ZKLXE48KQhVnCuUHJmLQo65vs4HwwQFbFcJUBvkx1BrH1SzQKBgQCA\nvkIpqFSaY6c636hS/uHLC3Ae+Zi/E1LIc/5JfCFEeOIN1ZkOhutHygWDA3YGWnWn\nr7c90k0+SsltTWE/LZ5IouOi+XCAixfv6JrtAhzyRlfNEq0MQvEY7MaBUftn0OR5\nD7kx0wGs6Iulj06wkx4huJEiJp5MXu+SI7MlYZlsfwKBgQDDdiTa5RLc7LdYHZ8r\nD+mpUCCoUihyoiREUcf2obbYnsZkSF9xnpDC+hX36T23REjaWZTJJt3RGaiHWuiT\nJ2NmzomBhfGmgsHTr+NaF6D73l5VS+ZkW/aOWvxNemZbF+BM3B5ndFaMp9YaGixs\nje9NtIC/ZOVtt9xXTISuXNOaZA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-bot@bidbot-361909.iam.gserviceaccount.com",
+  "client_id": "109757962756457991935",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-bot%40bidbot-361909.iam.gserviceaccount.com"
+}
